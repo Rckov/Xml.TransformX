@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TransformX.Transform\TransformX.Transform.csproj" />
+  </ItemGroup>
+
 </Project>
