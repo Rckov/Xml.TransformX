@@ -1,0 +1,1 @@
+﻿﻿This code is copied from GitHub: https://github.com/StefH/ICSharpCode.TextEditorEx
